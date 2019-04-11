@@ -10,3 +10,4 @@ permalink: /questions/fun-questions/index.html
 * Do you have any pet projects? What kind?
 * What's your favorite feature of Internet Explorer?
 * How do you like your coffee?
+* What are your favourite features of CSS or HTML?
